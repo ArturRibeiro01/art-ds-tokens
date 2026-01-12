@@ -1,0 +1,20 @@
+{
+  "name": "art-ds-tokens",
+  "version": "0.0.0",
+  "description": "A library to share and use art-ds styled tokens",
+  "homepage": "https://github.com/ArturRibeiro01/art-ds-tokens#readme",
+  "bugs": {
+    "url": "https://github.com/ArturRibeiro01/art-ds-tokens/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturRibeiro01/art-ds-tokens.git"
+  },
+  "license": "ISC",
+  "author": "Artur Ribeiro",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  }
+}
